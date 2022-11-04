@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/piiito/secrets/issues"
   },
-  "homepage": "https://github.com/piiito/secrets#readme"
+  "homepage": "https://github.com/piiito/secrets#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
